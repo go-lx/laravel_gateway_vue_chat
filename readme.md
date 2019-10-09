@@ -1,5 +1,5 @@
 # laravel_gateway_vue_chat
-Laravel+GatewayWorke+Vue 打造的简单聊天室
+Laravel+GatewayWorke+Vue 打造的多用户聊天室
 
 #项目启动流程
 >   
@@ -22,5 +22,12 @@ Laravel+GatewayWorke+Vue 打造的简单聊天室
     7.用户退出
     8.心跳检测
 >
+# 项目效果图
+// 聊天室界面
+![](./public/md/1.png)
 
-    
+// 聊天界面
+![](./public/md/2.png)
+
+// 私聊界面
+![](./public/md/3.png)
